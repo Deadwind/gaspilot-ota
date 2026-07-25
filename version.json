@@ -1,0 +1,9 @@
+{
+  "version": "2.1.0",
+  "version_code": 3,
+  "release_date": "2026-07-25",
+  "firmware_url": "",
+  "changelog": "OTA via GitHub, detección de carga (PIN_CHRG), Web OTA inicial",
+  "min_battery_pct": 50,
+  "critical": false
+}
