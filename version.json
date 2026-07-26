@@ -1,9 +1,8 @@
 {
-  "version": "2.1.0",
-  "version_code": 3,
-  "release_date": "2026-07-25",
-  "firmware_url": "",
-  "changelog": "OTA via GitHub, detección de carga (PIN_CHRG), Web OTA inicial",
+  "version": "2.3.0",
+  "firmware_url": "https://github.com/Deadwind/gaspilot-ota/raw/main/GasPilot-v2.3.0.bin",
   "min_battery_pct": 50,
-  "critical": false
+  "critical": false,
+  "release_notes": "Actualización automática desde GitHub Actions",
+  "build_date": "2026-07-26T19:30:11Z"
 }
