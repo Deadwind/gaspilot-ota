@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "firmware_url": "https://github.com/Deadwind/gaspilot-ota/raw/main/GasPilot-v2.4.0.bin",
+  "version": "2.4.1",
+  "firmware_url": "https://github.com/Deadwind/gaspilot-ota/raw/main/GasPilot-v2.4.1.bin",
   "min_battery_pct": 50,
   "critical": false,
   "release_notes": "Actualización automática desde GitHub Actions",
-  "build_date": "2026-07-26T19:53:22Z"
+  "build_date": "2026-07-26T20:51:15Z"
 }
